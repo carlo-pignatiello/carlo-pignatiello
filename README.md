@@ -8,7 +8,7 @@
   
 **Technologies:**
 * **Desktop:** EndeavourOS (KDE Plasma) 💻
-* **Python:** Experience with [FastApi / Pydantic / Pandas / Celery] 🐍
+* **Python:** Experience with [FastApi / Pydantic / Pandas / Celery / Poetry] 🐍
 * **Rust:** Actively learning through [Rust Book](https://doc.rust-lang.org/book/) 🦀
 * **Docker:** I love the 🐳
 
