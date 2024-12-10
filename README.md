@@ -7,10 +7,10 @@
 * **Lecce, Italy** ☀️🏖️
   
 **Technologies:**
-* **Desktop:** EndeavourOS (KDE Plasma) 💻
+* **Desktop:** Linux 💻
 * **Python:** Experience with [FastApi / Pydantic / Pandas / Celery / Poetry] 🐍
 * **Rust:** Actively learning through [Rust Book](https://doc.rust-lang.org/book/) 🦀
-* **Docker:** I love the 🐳
+* **Docker:** 🐳
 
 **More:**
 * **Social Media:** [Linkedin](https://www.linkedin.com/in/carlo-pignatiello95/)
