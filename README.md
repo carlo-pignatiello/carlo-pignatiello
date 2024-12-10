@@ -7,7 +7,7 @@
 * **Lecce, Italy** ☀️🏖️
   
 **Technologies:**
-* **Desktop:** Linux 💻
+* **OS:** Linux
 * **Python:** Experience with [FastApi / Pydantic / Pandas / Celery / Poetry] 🐍
 * **Rust:** Actively learning through [Rust Book](https://doc.rust-lang.org/book/) 🦀
 * **Docker:** 🐳
