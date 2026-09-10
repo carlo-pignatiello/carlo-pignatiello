@@ -8,7 +8,7 @@
   
 **Technologies:**
 * **OS:** Linux
-* **Python:** Experience with [FastApi / Pydantic / Pandas / Celery / Poetry] 🐍
+* **Python:** Experience with [FastApi / Pydantic / Pandas / Celery / Uv] 🐍
 * **Rust:** Actively learning through [Rust Book](https://doc.rust-lang.org/book/) 🦀
 * **Docker:** 🐳
 
